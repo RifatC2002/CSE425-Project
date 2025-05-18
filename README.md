@@ -51,12 +51,12 @@ python train.py
 # Replace with your actual checkpoint path
 python evaluate.py --checkpoint outputs/20240101_120000/checkpoints/model_final.pt
 
-```View Results``
-# Linux/Mac
+# View Results``
+## Linux/Mac
 open outputs/latest/figures/cluster_projection.png  
 eog outputs/latest/figures/cluster_projection.png  # Alternative
 
-# Windows
+## Windows
 start outputs\latest\figures\cluster_projection.png
 
 ```Expected Output Structure```
