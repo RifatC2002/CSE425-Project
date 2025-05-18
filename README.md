@@ -59,7 +59,9 @@ eog outputs/latest/figures/cluster_projection.png  # Alternative
 ## Windows
 start outputs\latest\figures\cluster_projection.png
 
-```Expected Output Structure```
+# Expected Output Structure
+
+
 outputs/
 └── YYYYMMDD_HHMMSS/  # Timestamped run
     ├── checkpoints/
