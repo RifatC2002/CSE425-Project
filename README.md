@@ -59,14 +59,3 @@ eog outputs/latest/figures/cluster_projection.png  # Alternative
 ## Windows
 start outputs\latest\figures\cluster_projection.png
 
-# Expected Output Structure
-
-
-outputs/
-└── YYYYMMDD_HHMMSS/  # Timestamped run
-    ├── checkpoints/
-    │   └── model_final.pt
-    └── figures/
-        ├── architecture.png
-        ├── cluster_projection.png
-        └── elbow_curve.png
