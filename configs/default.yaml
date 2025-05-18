@@ -1,0 +1,9 @@
+dataset: "ag_news"
+latent_dim: 64
+num_clusters: 4
+batch_size: 32
+learning_rate: 0.001
+epochs: 50
+warmup_epochs: 10
+lambda: 0.1
+alpha: 1.0
